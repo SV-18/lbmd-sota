@@ -1,4 +1,4 @@
-# LBMD-SOTA: Universal Neural Network Interpretability
+# LBMD: Universal Neural Network Interpretability via Latent Boundary Manifold Decomposition
 
 <div align="center">
 
@@ -109,14 +109,6 @@ LBMD discovers the **geometric structure** of neural representations:
 
 Unlike pixel-based methods, LBMD reveals **why** the model makes decisions, not just **where** it looks.
 
-## 📖 Documentation
-
-- [**Installation Guide**](docs/installation.md) - Get started in 5 minutes
-- [**API Reference**](docs/api/) - Complete function documentation
-- [**Tutorials**](docs/tutorials/) - Step-by-step guides
-- [**Examples**](examples/) - Real-world use cases
-- [**Research Paper**](https://arxiv.org/abs/XXXX.XXXXX) - Technical details
-
 ## 🤝 Contributing
 
 We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md) for details.
@@ -134,7 +126,7 @@ If you use LBMD in your research, please cite:
 
 ```bibtex
 @article{lbmd2025,
-  title={LBMD: Universal Neural Network Interpretability via Boundary Manifold Decomposition},
+  title={LBMD: Universal Neural Network Interpretability via Latent Boundary Manifold Decomposition},
   author={Srikanth Vemula},
   journal={arXiv preprint arXiv:XXXX.XXXXX},
   year={2025}
@@ -151,7 +143,6 @@ If you use LBMD in your research, please cite:
 
 <div align="center">
 
-**Made with ❤️ for the ML community**
 
 [⭐ Star us on GitHub](https://github.com/SV-18/lbmd-sota) • [📦 Install from PyPI](https://pypi.org/project/lbmd-sota/) • [📖 Read the Docs](https://github.com/SV-18/lbmd-sota#readme)
 
@@ -233,7 +224,7 @@ If you use this framework in your research, please cite:
 
 ```bibtex
 @software{lbmd_sota_2025,
-  title={LBMD SOTA Enhancement Framework},
+  title={LBMD: Universal Neural Network Interpretability via Latent Boundary Manifold Decomposition},
   author={Srikanth Vemula},
   year={2025},
   url={https://github.com/lbmd-research/lbmd-sota}
