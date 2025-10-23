@@ -133,11 +133,11 @@ We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md) for deta
 If you use LBMD in your research, please cite:
 
 ```bibtex
-@article{lbmd2024,
+@article{lbmd2025,
   title={LBMD: Universal Neural Network Interpretability via Boundary Manifold Decomposition},
   author={Srikanth Vemula},
   journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2024}
+  year={2025}
 }
 ```
 
@@ -145,7 +145,7 @@ If you use LBMD in your research, please cite:
 
 - 💬 [GitHub Discussions](https://github.com/SV-18/lbmd-sota/discussions) - Ask questions
 - 🐛 [Issues](https://github.com/SV-18/lbmd-sota/issues) - Report bugs
-- 📧 [Email](mailto:srikanthv0567@gmail.com) - Direct contact
+- 📧 [Email](mailto:svemula001@csbsju.edu) - Direct contact
 
 ---
 
@@ -232,10 +232,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this framework in your research, please cite:
 
 ```bibtex
-@software{lbmd_sota_2024,
+@software{lbmd_sota_2025,
   title={LBMD SOTA Enhancement Framework},
-  author={LBMD Research Team},
-  year={2024},
+  author={Srikanth Vemula},
+  year={2025},
   url={https://github.com/lbmd-research/lbmd-sota}
 }
 ```
