@@ -21,7 +21,7 @@ Usage:
     results = evaluator.analyze_model(model, dataset)
 """
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 __author__ = "LBMD Research Team"
 __email__ = "research@lbmd.ai"
 __license__ = "MIT"
